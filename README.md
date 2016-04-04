@@ -31,7 +31,7 @@ CloudWatch -> Lambda -> SNS -> SQS
 {
   "event": "ticker:5m",
   "data": {
-    "time": "2016-04-04T04:03:44Z"
+    "time": "2016-04-04T05:00:00Z"
   }
 }
 ```
