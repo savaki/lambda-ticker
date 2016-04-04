@@ -1,0 +1,7 @@
+{
+  "name": "ticker",
+  "description": "lambda based cron job",
+  "runtime": "golang",
+  "role": "arn:aws:iam::554068800329:role/lambda-ticker",
+  "memory": 128
+}
